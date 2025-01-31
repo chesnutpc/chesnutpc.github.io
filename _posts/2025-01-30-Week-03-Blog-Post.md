@@ -1,3 +1,5 @@
+# Week 03 Blog Post
+
 ## What did you do last week?
 
 This week I finally settled on my project.  I will create a study guide to prepare for coding interviews.  The bulk of the study guide will be devoted to practice problems, their solutions, and a short video that explains the approach to the question and the solution.  Each week I will focus on a different topic.  I have compiled a list of 14 topics.
