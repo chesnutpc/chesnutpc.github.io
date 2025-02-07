@@ -3,5 +3,5 @@ in CSPB3112, Spring 2025
 
 <h3>Strings</h3>
 <ul>
-  <a href="Palindrome.md">Palindrome Check</a>
+  <a href="Palindrome.html">Palindrome Check</a>
 </ul>
