@@ -3,5 +3,5 @@ in CSPB3112, Spring 2025
 
 <h3>Strings</h3>
 <ul>
-  <a href="Group_Anagrams.md">Group Anagrams</a>
+  <a href="Palindrome.md">Group Anagrams</a>
 </ul>
