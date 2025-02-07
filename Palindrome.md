@@ -1,3 +1,6 @@
+layout: default
+title: Palindrome
+
 ## Palindrome Check
 
 ### Question
