@@ -11,4 +11,5 @@ in CSPB3112, Spring 2025
 <h3>Arrays</h3>
 <ul>
   <a href="Two_Number_Sum.html">Two Number Sum</a><br>
+  <a href="Validate_Subsequence.html">Validate Subsequence</a><br>
 </ul>
