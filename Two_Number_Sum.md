@@ -49,5 +49,24 @@ def twoNumberSum(array, targetSum):
 O(1) space, only the input array is used\
 O(n^2) time, must iterate through the array once for every element
 
+### Solution #2
+```
+def twoNumberSum(array, targetSum):
+    # Convert the inputted array to a set.
+    # This is stored as a hash table in python.
+    nums = set(array)
+    # Loop through array with a pointer.
+    # Check the set for targetSum - number pointed to in array.
+    # If number is found in the array, return it and pointed to number
+    for arryNum in array:
+        objectiveNum = targetSum - arryNum
+        if objectiveNum in nums and objectiveNum != arryNum:
+            return [arryNum, objectiveNum]
+    # targetSum cannot be achieved
+    return []
+```
+O(n) space, created hash table from inputted array\
+O(n) time, must iterate through the array once
+
 
 
