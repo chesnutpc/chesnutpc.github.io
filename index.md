@@ -13,4 +13,5 @@ in CSPB3112, Spring 2025
   <a href="Two_Number_Sum.html">Two Number Sum</a><br>
   <a href="Validate_Subsequence.html">Validate Subsequence</a><br>
   <a href="Sorted_Squared_Array.html">Sorted Squared Array</a><br>
+  <a href="Transpose_Matrix.html">Transpose Matrix</a><br>
 </ul>
