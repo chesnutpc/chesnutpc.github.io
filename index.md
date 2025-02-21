@@ -21,4 +21,5 @@ in CSPB3112, Spring 2025
   <a href="Min_Max_Stack.html">Min Max Stack</a><br>
   <a href="Asteroid_Collision.html">Asteroid Collision</a><br>
   <a href="Valid_Brackets.html">Valid Brackets</a><br>
+  <a href="Largest_Number.html">Largest Number</a><br>
 </ul>
