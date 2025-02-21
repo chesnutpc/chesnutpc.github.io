@@ -19,4 +19,5 @@ in CSPB3112, Spring 2025
 <h3>Stacks</h3>
 <ul>
   <a href="Min_Max_Stack.html">Min Max Stack</a><br>
+  <a href="Asteroid_Collision.html">Asteroid Collision</a><br>
 </ul>
