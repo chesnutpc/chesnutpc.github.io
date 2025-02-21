@@ -15,3 +15,8 @@ in CSPB3112, Spring 2025
   <a href="Sorted_Squared_Array.html">Sorted Squared Array</a><br>
   <a href="Transpose_Matrix.html">Transpose Matrix</a><br>
 </ul>
+
+<h3>Stacks</h3>
+<ul>
+  <a href="Min_Max_Stack.html">Min Max Stack</a><br>
+</ul>
