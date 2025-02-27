@@ -23,3 +23,8 @@ in CSPB3112, Spring 2025
   <a href="Valid_Brackets.html">Valid Brackets</a><br>
   <a href="Largest_Number.html">Largest Number</a><br>
 </ul>
+
+<h3>Heaps</h3>
+<ul>
+  <a href="Min_Heap.html">Min Heap Implementation</a><br>
+</ul>
