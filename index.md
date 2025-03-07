@@ -28,3 +28,8 @@ in CSPB3112, Spring 2025
 <ul>
   <a href="Min_Heap.html">Min Heap Implementation</a><br>
 </ul>
+
+<h3>Sorting</h3>
+<ul>
+  <a href="Bubble_Sort.html">Bubble Sort Implementation</a><br>
+</ul>
