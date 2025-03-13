@@ -34,3 +34,10 @@ in CSPB3112, Spring 2025
   <a href="Bubble_Sort.html">Bubble Sort Implementation</a><br>
   <a href="Insertion_Sort.html">Insertion Sort Implementation</a><br>
 </ul>
+
+<h3>Tries</h3>
+<ul>
+  <a href="Suffix_Trie.html">Suffix Trie</a><br>
+</ul>
+
+
