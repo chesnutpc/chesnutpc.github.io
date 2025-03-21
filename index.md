@@ -43,4 +43,5 @@ in CSPB3112, Spring 2025
 <h3>Linked Lists</h3>
 <ul>
   <a href="Remove_Duplicates.html">Remove Duplicates</a><br>
+  <a href="Middle_Node.html">Middle Node</a><br>
 </ul>
