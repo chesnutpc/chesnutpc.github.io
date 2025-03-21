@@ -44,4 +44,5 @@ in CSPB3112, Spring 2025
 <ul>
   <a href="Remove_Duplicates.html">Remove Duplicates</a><br>
   <a href="Middle_Node.html">Middle Node</a><br>
+  <a href="Remove_Kth_Node.html">Remove Kth Node</a><br>
 </ul>
