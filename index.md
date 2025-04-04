@@ -50,4 +50,5 @@ in CSPB3112, Spring 2025
 <h3>Binary Trees</h3>
 <ul>
   <a href="Branch_Sums.html">Branch Sums</a><br>
+  <a href="Sum_Node_Depths.html">Sum of Node Depths</a><br>
 </ul>
