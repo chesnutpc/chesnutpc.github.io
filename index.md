@@ -56,5 +56,6 @@ in CSPB3112, Spring 2025
 <h3>Binary Search Trees</h3>
 <ul>
   <a href="Closest_Value_BST.html">Find Closest Value in BST</a><br>
+  <a href="Valid_BST.html">Valid BST</a><br>
 </ul>
 
