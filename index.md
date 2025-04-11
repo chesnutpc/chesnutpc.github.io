@@ -52,3 +52,9 @@ in CSPB3112, Spring 2025
   <a href="Branch_Sums.html">Branch Sums</a><br>
   <a href="Sum_Node_Depths.html">Sum of Node Depths</a><br>
 </ul>
+
+<h3>Binary Search Trees</h3>
+<ul>
+  <a href="Closest_Value_BST.html">Branch Sums</a><br>
+</ul>
+
