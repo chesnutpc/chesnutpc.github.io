@@ -68,4 +68,5 @@ in CSPB3112, Spring 2025
 <h3>Dynamic Programming</h3>
 <ul>
   <a href="Max_Subset_Sum.html">Max Subset Sum</a><br>
+  <a href="Ways_Traverse_Grid.html">Number of Ways to Traverse Grid</a><br>
 </ul>
