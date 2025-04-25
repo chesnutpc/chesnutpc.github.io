@@ -49,5 +49,5 @@ def maxSubsetSumNoAdjacent(array):
     # Return the last element of maxSums
     return maxSums[-1]
 ```
-O(n) time as we must iterate through the array once
+O(n) time as we must iterate through the array once\
 O(n) space as we create a new array that is the same length as the inputted array\
