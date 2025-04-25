@@ -64,3 +64,8 @@ in CSPB3112, Spring 2025
   <a href="Product_Sum.html">Product Sum</a><br>
   <a href="Permutations.html">Permutations</a><br>
 </ul>
+
+<h3>Dynamic Programming</h3>
+<ul>
+  <a href="Max_Subset_Sum.html">Max Subset Sum</a><br>
+</ul>
