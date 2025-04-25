@@ -34,7 +34,35 @@ Sample Output:
 ### Solution
 ```
 def numberOfWaysToTraverseGraph(width, height):
-    return 0
+    # We will create a new array of the same width and
+    # height of the inputted array.  Each element will
+    # indicate the number of ways to reach the square.
+    # The upper left corner has only 1 way to reach the
+    # square.  Likewise, there is only 1 way to reach 
+    # each square on the top or left edge of the grid.
+    # All the other squares are the sum of the square
+    # to the top and left, since you may only traverse
+    # down and to the right.
+
+    # Create an empty array of zeros of the same width
+    # and height of the inputted array.
+    numOfWays = [[0 for _ in range (width + 1)] for _ in range(height + 1)]
+
+    # Now we just implement the logic above summing
+    # squares when neeeded.
+    for widthIdx in range(1, width + 1):
+        for heightIdx in range(1, height + 1):
+            # Set left edge and top edge to 1
+            if widthIdx == 1 or heightIdx == 1:
+                numOfWays[heightIdx][widthIdx] = 1
+            # For other boxes sum box to left and box above
+            else:
+                left = numOfWays[heightIdx][widthIdx - 1]
+                up = numOfWays[heightIdx - 1][widthIdx]
+                numOfWays[heightIdx][widthIdx] = left + up
+    # When finished return the value in the lower right
+    return numOfWays[height][width]
+    
 ```
-O(n) time as we must iterate through the array once\
-O(n) space as we create a new array that is the same length as the inputted array\
+O(n x m) time as we must iterate through the array once\
+O(n x m) space as we create a new array that is the same size as the inputted array\
