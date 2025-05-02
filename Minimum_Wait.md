@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Caesar Cipher Encryptor
+title: Minimum wait time
 ---
 
-## Caesar Cipher Encryptor
+## Minimum Wait Time
 
 ### Question
 You’re given a non-empty array of positive integers representing the amounts of time that specific queries take to execute. Only one query can be executed at a time, but the queries can be executed in any order.
