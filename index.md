@@ -74,4 +74,5 @@ in CSPB3112, Spring 2025
 <h3>Greedy Algorithms</h3>
 <ul>
   <a href="Minimum_Wait.html">Minimum Waiting Time</a><br>
+  <a href="Freelancing.html">Optimal Freelancing</a><br>
 </ul>
