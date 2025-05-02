@@ -70,3 +70,8 @@ in CSPB3112, Spring 2025
   <a href="Max_Subset_Sum.html">Max Subset Sum</a><br>
   <a href="Ways_Traverse_Grid.html">Number of Ways to Traverse Grid</a><br>
 </ul>
+
+<h3>Greedy Algorithms</h3>
+<ul>
+  <a href="Minimum_Wait.html">Minimum Waiting Time</a><br>
+</ul>
