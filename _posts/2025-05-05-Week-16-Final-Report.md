@@ -1,6 +1,6 @@
 Patrick Chesnut\
 CSPB 3112 Spring 2025\
-Technical Interview Self-Study\
+Technical Interview Self-Study
 
 ### Introduction
 My project was to create a detailed study guide for technical coding interviews, with the goal of gaining an understanding of the data structures and algorithms necessary to complete such interviews.  The primary objective was to work my way through various topics from basic structures like strings and arrays to more complex topics like dynamic programming and recursion.  The goal was to both solve problems efficiently, but also to explain the solutions clearly so that I would be able to communicate my solutions effectively during interviews.
