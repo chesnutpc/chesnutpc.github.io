@@ -19,3 +19,6 @@ I achieved the project’s goals planned from the beginning by holding weekly st
 
 ### Conclusion
 Completing this project significantly reinforced fundamental concepts in data structures and algorithms taught during my time in this program.  The knowledge and skills I have gained should improve my ability to perform well during technical interviews and aid in my transition to a career in software development.  Looking forward, I plan to continue to work through the course on algoexpert.com to further enhance my problem solving ability for technical coding interviews.
+
+### References
+AlgoExpert.com
